@@ -1,0 +1,2 @@
+This xposed module prevents the system (and also yourself) from allowing apps to always open supported links.
+打开 http / https 链接时总是询问，而不是直接在 app 中打开
